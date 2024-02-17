@@ -1,1 +1,3 @@
-console.log("push #1");
+
+console.log("push from #0");
+
